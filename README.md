@@ -3,8 +3,9 @@
 **Name:** Karthikeyan  
 **Focus:** SOC 2 · ISO 27001 · Cloud Compliance · DPDPA 2023  
 **Background:** 3rd Year Cybersecurity Engineering Student  
-**Goal:** SOC Analyst (Blue Team) with GRC and Compliance awareness
-**Started:** 31 March 2026  
+**Goal:** SOC Analyst (Blue Team) — documenting the GRC and compliance 
+context that sits behind every detection, alert, and incident response.
+**Started:** 31 March 2026
 
 ## What's Inside
 - Framework summaries (NIST CSF, SOC 2, ISO 27001)

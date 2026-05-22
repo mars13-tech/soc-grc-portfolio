@@ -70,3 +70,14 @@ NIST Cybersecurity Framework (CSF) 2.0 is a set of guidelines that helps organiz
 ## Key Takeaway Today
 
 Cybersecurity is not just about tools—it’s about having a structured process from planning to recovery. The framework shows that security is continuous and involves the entire organization.
+
+## SOC Analyst Relevance
+
+| NIST Function | SOC Operation |
+|---|---|
+| Identify | Asset inventory — know what you are defending |
+| Protect | Access controls, MFA, hardening |
+| Detect | SIEM alerting, log analysis, anomaly detection |
+| Respond | Incident response playbooks, escalation |
+| Recover | Lessons learned, control improvements |
+| Govern | Policies and compliance that frame all of the above |

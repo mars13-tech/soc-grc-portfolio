@@ -4,7 +4,7 @@
 **Focus:** SOC 2 · ISO 27001 · Cloud Compliance · DPDPA 2023  
 **Background:** 3rd Year Cybersecurity Engineering Student  
 **Goal:** SOC Analyst (Blue Team) — documenting the GRC and compliance 
-context that sits behind every detection, alert, and incident response.
+context that sits behind every detection, alert, and incident response.  
 **Started:** 31 March 2026
 
 ## What's Inside
@@ -14,10 +14,6 @@ context that sits behind every detection, alert, and incident response.
 - Audit templates and evidence trackers
 - DPDPA 2023 compliance checklists
 - Vendor risk assessment frameworks
-
-## Certifications (In Progress)
-- [ ] ISC² CC — Certified in Cybersecurity
-- [ ] Google Cybersecurity Certificate
 
 ## Contact
 www.linkedin.com/in/karthi-keyan-9042862bb
